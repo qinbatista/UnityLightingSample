@@ -10,7 +10,6 @@ GameObject:
   m_Component:
   - component: {fileID: 4294904463654232}
   - component: {fileID: 20312204330058374}
-  - component: {fileID: 92340021084141606}
   - component: {fileID: 124954648433616986}
   - component: {fileID: 81611043640342174}
   m_Layer: 0
@@ -30,6 +29,7 @@ Transform:
   m_LocalRotation: {x: -0.030147461, y: 0.9257736, z: -0.075488895, w: -0.3692369}
   m_LocalPosition: {x: 2.339, y: 1.116, z: 2.406}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
@@ -46,9 +46,10 @@ Camera:
   m_ClearFlags: 1
   m_BackGroundColor: {r: 0.25, g: 0.25, b: 0.25, a: 0.003921569}
   m_projectionMatrixMode: 1
+  m_GateFitMode: 2
+  m_FOVAxisMode: 0
   m_SensorSize: {x: 36, y: 24}
   m_LensShift: {x: 0, y: 0}
-  m_GateFitMode: 2
   m_FocalLength: 50
   m_NormalizedViewPortRect:
     serializedVersion: 2
@@ -76,14 +77,6 @@ Camera:
   m_OcclusionCulling: 1
   m_StereoConvergence: 10
   m_StereoSeparation: 0.022
---- !u!92 &92340021084141606
-Behaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1097917774688402}
-  m_Enabled: 1
 --- !u!124 &124954648433616986
 Behaviour:
   m_ObjectHideFlags: 0
