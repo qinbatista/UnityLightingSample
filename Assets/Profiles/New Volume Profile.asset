@@ -43,7 +43,7 @@ MonoBehaviour:
     m_Value: {fileID: 0}
   contribution:
     m_OverrideState: 1
-    m_Value: 0.405
+    m_Value: 0
 --- !u!114 &-7969727934248779490
 MonoBehaviour:
   m_ObjectHideFlags: 3
@@ -93,7 +93,7 @@ MonoBehaviour:
   active: 0
   intensity:
     m_OverrideState: 1
-    m_Value: 0
+    m_Value: 0.974
 --- !u!114 &-1682784261567324568
 MonoBehaviour:
   m_ObjectHideFlags: 3
@@ -115,7 +115,7 @@ MonoBehaviour:
     m_Value: {x: 0.5, y: 0.5}
   intensity:
     m_OverrideState: 1
-    m_Value: 1
+    m_Value: 0.808
   smoothness:
     m_OverrideState: 1
     m_Value: 1
@@ -180,13 +180,13 @@ MonoBehaviour:
     m_Value: 1
   focusDistance:
     m_OverrideState: 1
-    m_Value: 0.1
+    m_Value: 1.37
   aperture:
     m_OverrideState: 1
     m_Value: 32
   focalLength:
     m_OverrideState: 1
-    m_Value: 300
+    m_Value: 214
   bladeCount:
     m_OverrideState: 1
     m_Value: 9
@@ -240,11 +240,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   active: 0
   postExposure:
-    m_OverrideState: 0
-    m_Value: 0.47
+    m_OverrideState: 1
+    m_Value: -4
   contrast:
-    m_OverrideState: 0
-    m_Value: 8
+    m_OverrideState: 1
+    m_Value: 87.3
   colorFilter:
     m_OverrideState: 0
     m_Value: {r: 1, g: 0, b: 0, a: 1}
@@ -310,13 +310,13 @@ MonoBehaviour:
   active: 0
   redOutRedIn:
     m_OverrideState: 1
-    m_Value: 30
+    m_Value: 144
   redOutGreenIn:
     m_OverrideState: 1
-    m_Value: 92
+    m_Value: -44
   redOutBlueIn:
     m_OverrideState: 1
-    m_Value: -131
+    m_Value: 50
   greenOutRedIn:
     m_OverrideState: 0
     m_Value: 0
