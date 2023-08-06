@@ -35,3 +35,8 @@ sysinfo.txt
 *.apk
 *.unitypackage
 mono_crash.0.2.json
+.vscode
+Logs
+ProjectSettings
+UserSettings
+Assets/_Review/.DS_Store
